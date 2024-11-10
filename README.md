@@ -46,7 +46,6 @@ python3 main.py
 
 ## 👦 Developed By:
 <h2 align="center">Pranjal Gupta</h2>
-<p align="center">
     
 
 

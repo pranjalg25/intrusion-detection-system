@@ -10,8 +10,6 @@ Developed an Intrusion Detection System which can detect Intruders. It also make
 ## 🌳 Social-Welfare Usecase:
 The Social-Welface usecase of this intrusion detection system (IDS) is that it monitors a network for malicious activity or policy violations. Any malicious activity or violation is typically reported or collected centrally using a security information and event management system. An IDS can be used to help analyze the quantity and types of attacks, and organizations can use this information to change their security systems or implement more effective controls.
 
-## 📽 Sample Demo:
-![ezgif com-gif-maker (18)](https://user-images.githubusercontent.com/54114888/139556711-381ee35b-ebfc-4eea-a4c1-5889154dc0d3.gif)
 
 ## 🏗 Built With:
  - Playsound. 
@@ -23,7 +21,7 @@ The Social-Welface usecase of this intrusion detection system (IDS) is that it m
 ## 🧪 Steps to Build locally:
 - Clone the Repository with: 
 ```bash 
-git clone https://github.com/Akash-Ramjyothi/Intrusion-Detection-System
+git clone https://github.com/pranjalg25/intrusion-detection-system
 ```
 - Install numpy: 
 ```bash

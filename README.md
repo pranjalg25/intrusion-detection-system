@@ -46,8 +46,3 @@ python3 main.py
 <h2 align="center">Pranjal Gupta</h2>
     
 
-
-## 🌐 References Used:
-- https://www.youtube.com/watch?v=F-jYRTERsrs
-- https://www.youtube.com/watch?v=3zOea4FPW8g
-- https://www.youtube.com/watch?v=oxmZ9zczptg
